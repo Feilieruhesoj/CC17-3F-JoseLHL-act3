@@ -24,12 +24,7 @@ class MainActivity : AppCompatActivity() {
             rollDiceAction()
 
 
-            //val textViewMA: TextView = findViewById(R.id.textViewAM)
-            //textViewMA.text = "4"
 
-
-            //val toastMA = Toast.makeText( this, "Dice Rolled!", Toast.LENGTH_LONG)
-            //toastMA.show()
 
         }
 
